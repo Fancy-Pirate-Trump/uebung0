@@ -1,2 +1,2 @@
 # uebung0
-Lichtenspiel
+Lichtspiel
